@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 ### Contact Info
 - Mail: robitx@gmail.com
 
+<!--
 ### GitHub Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=robitx&count_private=true&hide_title=true)
+-->
